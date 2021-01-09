@@ -2,13 +2,13 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '🤖vira✿/bot🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
-const kapanbotaktif = 'Jam 11Siang—3Sore'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/CXLFv9R7S2O6YsOguCEqK4'; // OFFICIAL GRUP LU 1
-const grupch2 = 'Ngak punya'; // OFFICIAL GRUP LU 2
-const grupch3 = 'Ngak punya'; // OFFICIAL GRUP LU 3
+const BotName = '🤖FERDBot🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://www.instagram.com/ferdi_ardian21?r=nametag'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+6282169369877'; // Nomor whatsapplu cok
+const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
+const grupch1 = 'https://chat.whatsapp.com/GQRkuhH34C80Y6JWwG3xXl'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/GQRkuhH34C80Y6JWwG3xXl'; // OFFICIAL GRUP LU 2
+const grupch3 = 'https://chat.whatsapp.com/GQRkuhH34C80Y6JWwG3xXl'; // OFFICIAL GRUP LU 3
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
