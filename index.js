@@ -140,13 +140,13 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Gx boleh kasar lu Asw' ,MessageType.text);
 }
 else if (text == '$owner'){
-conn.sendMessage(id, 'Owner wa.me/+6285733553839' ,MessageType.text);
+conn.sendMessage(id, 'Owner wa.me/+6282169369877' ,MessageType.text);
 }
 else if (text == '$creator'){
-conn.sendMessage(id, 'Creator wa.me/+6285733553839' ,MessageType.text);
+conn.sendMessage(id, 'Creator wa.me/+6282169369877' ,MessageType.text);
 }
-else if (text == 'Aris'){
-conn.sendMessage(id, 'Aku BOT nya Aris' ,MessageType.text);
+else if (text == 'Fer'){
+conn.sendMessage(id, 'Ferdi Itu syng ku♥️' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
 conn.sendMessage(id, 'Ngentod Bapak kau_-' ,MessageType.text);
@@ -822,7 +822,7 @@ if (text.includes("$alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Tolonglah bro jangan di ubah ubah Ferdi Ardian
 
 
 })
