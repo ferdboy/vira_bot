@@ -2,7 +2,7 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '🤖vira✿/bot🤖'; // Nama Bot Whatsapp
+const BotName = '🤖FERDBot🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Jam 11Siang—3Sore'; // Kapan bot lu aktif
